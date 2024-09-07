@@ -1,0 +1,55 @@
+body
+{
+    display: flex;
+    flex-direction: column-reverse;
+    align-items: center;
+    justify-content: space-between;
+    height: 95vh;
+}
+
+.buttonsContainer
+{
+    box-shadow: 2px 2px 3px gray;
+    padding: 5px;
+}
+
+.colorButton
+{
+    border-radius: 8px;
+    height: 30px;
+}
+
+.redButton
+{
+    background-color: red;
+}
+.yellowButton
+{
+    background-color: yellow;
+}
+.blackButton
+{
+    background-color: black;
+    color: white;
+}
+.greenButton
+{
+    background-color: green;
+}
+.purpleButton
+{
+    background-color: purple;
+}
+.blueButton
+{
+    background-color: blue;
+}
+.defaultButton
+{
+    background-color: orange;
+}
+
+
+
+
+
